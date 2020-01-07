@@ -133,3 +133,4 @@
 |成都|[成都二次元动漫有限公司](https://www.kanman.com/)|2018年12月1日|996|[图片-1](img/ecy1.jpg) [图片-2](img/ecy12.jpg)[图片-3](img/ecy4.jpg) + 亲历| 
 |北京|[东华软件股份公司](http://www.dhcc.com.cn/)|2018年2月|996|亲历 [百度口碑](https://koubei.baidu.com/s/xt.dhcc.com.cn?from=ps_pc1) | 
 
+
